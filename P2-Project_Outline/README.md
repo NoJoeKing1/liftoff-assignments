@@ -7,12 +7,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+		There are many beautiful national parks that we have the priviledge to experience and enjoy. With such a wide variety 
+	of landscapes, activities, wildlife, and scenery available, it may be difficult to choose the parks with your specific 
+	interests. Therefore, my application will, through user-input, return a list of national parks catered to the user's interests.
 ### Features
-Include Features here
+Features will include: 
+-User registration
+-Authorization
+-Basic CRUD to add, edit, and delete parks
+-Search feature with ability to filter and sort parks using tags
 ### Technologies
-Include Technologies here
+Technologies will include:
+-ASP.NET
+-SQL
+-JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+-How to integrate JavaScript  into my ASP.NET web application to make website more interatctive
 ### Project Tracker
-Link to your Trello board here
+Link to your Trello board here:
+https://trello.com/b/y6pnyvIi/national-park-recommendation
